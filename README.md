@@ -26,4 +26,6 @@ This repository contains MATLAB files for Computational-Neuroscience Research Po
 
 - Tuning Curve of Neurons vs Stimulus Figures
   ![Tuning Curve of Neurons vs Stimulus figures](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/34f3bebc-4fde-45b9-b32d-800aaa8b1ec5)
+  ![outputresultsfrompoissonneuronmodels](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/849a2151-80f3-49f6-9a0e-e2e4ecc9929c)
+
 
