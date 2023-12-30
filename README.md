@@ -17,12 +17,13 @@ This repository contains MATLAB files for Computational-Neuroscience Research Po
 
 ##  Interpretation and Exploration
 
-- 'poissonneuronmodels.m': 
+- 'poissonneuronmodels.m': This MATLAB script is designed for analyzing the firing characteristics of simulated neurons in response to air velocity stimuli, mimicking the behavior of cricket cercal organs. The code presents tuning curves for four neurons ('neuron1' through 'neuron4') by plotting their mean firing rates against the stimulus direction. It calculates the maximum firing rate ('rmax') and utilizes it to compute a population vector ('normalizedpopvec') representing the collective neural response. The angle of this vector is determined and normalized to fall within the range [0, 360) degrees. The script provides a comprehensive visualization of neural tuning and population coding. Additionally, it has been adapted to accept firing rate data from experimental trials, offering versatility in analyzing real-world neural responses. The code demonstrates proficiency in MATLAB plotting functions, statistical analysis, and neural coding concepts.
   
-  ![spiketriggeredavg](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/0e3e5255-93a3-43b9-837b-60ece1ed916e)
+  ![poissonneuronmodels](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/5a4491c5-d1f0-4aa7-81c9-4b362aaa34af)
+
 
 ## Images 
 
 - Tuning Curve of Neurons vs Stimulus Figures
   ![Tuning Curve of Neurons vs Stimulus figures](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/34f3bebc-4fde-45b9-b32d-800aaa8b1ec5)
-  ![poissonneuronmodels](https://github.com/mduezguen3/Computational-Neuroscience-Research/assets/131891739/ec355f76-f094-424a-9e25-b0cc102f6e6b)
+
